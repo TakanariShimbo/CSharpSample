@@ -1,0 +1,6 @@
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.AssemblyReference.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.pdb

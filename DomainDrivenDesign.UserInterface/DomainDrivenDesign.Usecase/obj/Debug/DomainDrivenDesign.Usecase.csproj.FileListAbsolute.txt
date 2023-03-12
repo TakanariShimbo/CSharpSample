@@ -1,0 +1,9 @@
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.AssemblyReference.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CoreCompileInputs.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CopyComplete
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.pdb
