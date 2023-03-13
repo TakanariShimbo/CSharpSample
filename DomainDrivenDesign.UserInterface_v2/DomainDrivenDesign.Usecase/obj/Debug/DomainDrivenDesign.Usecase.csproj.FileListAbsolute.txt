@@ -1,0 +1,27 @@
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.AssemblyReference.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CoreCompileInputs.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CopyComplete
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.AssemblyReference.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CoreCompileInputs.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CopyComplete
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.AssemblyReference.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CoreCompileInputs.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.csproj.CopyComplete
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Usecase\obj\Debug\DomainDrivenDesign.Usecase.pdb

@@ -1,0 +1,18 @@
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.AssemblyReference.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.AssemblyReference.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.AssemblyReference.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.Domain\obj\Debug\DomainDrivenDesign.Domain.pdb

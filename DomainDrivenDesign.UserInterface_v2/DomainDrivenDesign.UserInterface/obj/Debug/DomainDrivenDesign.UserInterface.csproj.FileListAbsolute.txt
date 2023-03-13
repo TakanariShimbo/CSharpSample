@@ -1,0 +1,57 @@
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe.config
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.AssemblyReference.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.Properties.Resources.resources
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.GenerateResource.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.exe
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CopyComplete
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateBlue.resources
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateRed.resources
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterface.resources
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateFinish.resources
+C:\Users\takanari\source\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateStart.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe.config
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.dll
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.pdb
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.AssemblyReference.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.Properties.Resources.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateFinish.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateStart.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterface.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateBlue.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateRed.resources
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.GenerateResource.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CoreCompileInputs.cache
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CopyComplete
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.exe
+E:\技術二課\post\_ａ　do\新保\source_backup\repos\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.AssemblyReference.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.Properties.Resources.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateFinish.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateStart.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterface.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateBlue.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.UserInterfaceStateRed.resources
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.GenerateResource.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.exe
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe.config
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.exe
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.UserInterface.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.dll
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Domain.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\bin\Debug\DomainDrivenDesign.Usecase.pdb
+C:\Users\takanari\Downloads\DomainDrivenDesign.UserInterface-20230313T115209Z-001\DomainDrivenDesign.UserInterface\DomainDrivenDesign.UserInterface\obj\Debug\DomainDrivenDesign.UserInterface.csproj.CopyComplete
